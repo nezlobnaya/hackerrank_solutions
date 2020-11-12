@@ -23,3 +23,10 @@ def sortedInsert(head, data):
         return head
 #O(n) time
 #O(1) space
+
+# Option 2
+    # while head.next:
+    #     head.prev, head.next, head = head.next, head.prev, head.next
+    # head.next, head.prev = head.prev, None
+    
+    # return head
