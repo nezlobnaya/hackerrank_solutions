@@ -50,7 +50,13 @@ def levelOrder(root):
         if current.left: queue.append(current.left)
         if current.right: queue.append(current.right)
             
-    
+def levelOrder(root):   
+    queue = [root]
+    for node in queue:
+        if node.left: queue.append(node.left)
+        if node.right: queue.append(node.right)
+        print(node.info, end=' ')
+          
     
 
 
