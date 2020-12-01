@@ -40,15 +40,15 @@ self.left (the left child of the node)
 self.right (the right child of the node)
 self.info (the value of the node)
 """
-from collections import deque
-def levelOrder(root):
-    #Write your code here
-    queue = deque([root])
-    while queue:
-        current = queue.popleft()
-        print(current.info, end=' ')
-        if current.left: queue.append(current.left)
-        if current.right: queue.append(current.right)
+# from collections import deque
+# def levelOrder(root):
+#     #Write your code here
+#     queue = deque([root])
+#     while queue:
+#         current = queue.popleft()
+#         print(current.info, end=' ')
+#         if current.left: queue.append(current.left)
+#         if current.right: queue.append(current.right)
             
 def levelOrder(root):   
     queue = [root]
