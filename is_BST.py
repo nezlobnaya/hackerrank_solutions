@@ -31,7 +31,7 @@ def solve (root, min_val, max_val ):
     if (root.data <= min_val or root.data >= max_val):return False
     return solve(root.left, min_val, root.data) and solve(root.right, root.data, max_val)
 def check_binary_search_tree_(root):
-    return solve(root,-1000000000000000000000, 1000000000000000000000 )
+    return solve(root,float("-inf"), float("inf") )
 
 
 
