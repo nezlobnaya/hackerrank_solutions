@@ -1,1 +1,3 @@
-# hackerrank_solutions to coding challenges
+# hackerrank_solutions 
+
+Adding my solutions to Hackerrank coding challenges daily
