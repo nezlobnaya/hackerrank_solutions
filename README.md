@@ -10,3 +10,17 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/lowest_common_ancestor.py)
 |[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/bst_insertion.py)
 |[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+
+
