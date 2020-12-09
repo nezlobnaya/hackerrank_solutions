@@ -1,6 +1,6 @@
 # HackerRank-Solutions
 
-Solutions and explanations to [HackerRank](https://www.hackerrank.com) problems implemented in Python 3.
+Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Python 3.
 
 ## Implementation
 
