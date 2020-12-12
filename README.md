@@ -30,6 +30,7 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
 |[Simple Text Editor](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/simple_text_editor.py)
 |[Electronics Shop](https://www.hackerrank.com/challenges/simple-text-editor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/electronics_shop/electronics_shop.py)
+|[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
 
 
 
