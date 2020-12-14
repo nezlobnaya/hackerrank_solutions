@@ -27,7 +27,7 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/lowest_common_ancestor.py)
 |[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/bst_insertion.py)
 |[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
-|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/level_order_traversal.py)
+|[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/insert_node_dll.py)
 |[Simple Text Editor](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/simple_text_editor.py)
 |[Electronics Shop](https://www.hackerrank.com/challenges/simple-text-editor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/electronics_shop/electronics_shop.py)
 |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
