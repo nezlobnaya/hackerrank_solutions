@@ -31,6 +31,6 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Simple Text Editor](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/simple_text_editor.py)
 |[Electronics Shop](https://www.hackerrank.com/challenges/simple-text-editor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/electronics_shop/electronics_shop.py)
 |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
-|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/lowest_common_ancestor.py)
+|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/height_of_binary_tree.py)
 
 
