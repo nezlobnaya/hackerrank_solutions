@@ -34,5 +34,5 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
 |[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/inOrder_tree_traversal.py/inOrder-tree_traversal.py)
 |[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/find_merge_point/find_merge_point.py)
-
+|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/post_order_traversal.py)
 
