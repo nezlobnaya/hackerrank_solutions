@@ -28,6 +28,7 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/bst_insertion.py)
 |[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/height_of_binary_tree.py)
 |[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/insert_node_dll.py)
+|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/insert_node_at_head_LL/insert_node_at_head_ll.py)
 |[Simple Text Editor](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/simple_text_editor.py)
 |[Electronics Shop](https://www.hackerrank.com/challenges/simple-text-editor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/electronics_shop/electronics_shop.py)
 |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
@@ -36,4 +37,5 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/inOrder_tree_traversal.py/inOrder-tree_traversal.py)
 |[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/post_order_traversal.py)
 |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/get_node_value_position_from_tail/get_node_value_position_from_tail.py)
+
 
