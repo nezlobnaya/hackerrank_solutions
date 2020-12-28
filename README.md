@@ -33,6 +33,7 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/merge_two_sorted_ll/merge_two_sorted_ll.py)
 |[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/print_elements_LL/print_elements_LL.py)
 |[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/print_in_reverse_LL/print_in_reverse_ll.py)
+|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/reverse_LL/reverse_ll.py)
 |[Simple Text Editor](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/simple_text_editor.py)
 |[Electronics Shop](https://www.hackerrank.com/challenges/simple-text-editor/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/electronics_shop/electronics_shop.py)
 |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/max_element.py)
