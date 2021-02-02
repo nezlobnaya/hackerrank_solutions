@@ -5,9 +5,10 @@
 #
 # For your reference:
 #
-# SinglyLinkedListNode:
-#     int data
-#     SinglyLinkedListNode next
+from typing import List, Set, Dict, Tuple, Optional
+class SinglyLinkedListNode:
+    int data
+    SinglyLinkedListNode next
 #
 #
 def reverse(head):
