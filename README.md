@@ -45,4 +45,5 @@ Solutions to [HackerRank](https://www.hackerrank.com) problems implemented in Py
 |[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/post_order_traversal.py)
 |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/get_node_value_position_from_tail/get_node_value_position_from_tail.py)
 |[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/queue_using_two_stacks.py)
+|[FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem)| [Solution.py](https://github.com/nezlobnaya/hackerrank_solutions/blob/main/fizzbuzz.py)
 
