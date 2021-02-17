@@ -76,3 +76,6 @@ v = list(map(int, input().split()))
 
 ans = lca(tree.root, v[0], v[1])
 print (ans.info)
+
+# Time O(n) worst O(log n) best
+# Space O(n)
