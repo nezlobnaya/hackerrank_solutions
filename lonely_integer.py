@@ -12,12 +12,11 @@
 #     return -1
 
 def lonelyinteger(a):
-    count = 1
     hash = {}
     for i in range(len(a)):
         if a[i] not in hash:
-            hash[a[i]] = count
-        else: hash[a[i]] = count +1
+            hash[a[i]] = True
+        else: hash[a[i]] = False
     for k, v in hash.items():
-        if v == 1: return k
+        if v == True: return k
     return -1
