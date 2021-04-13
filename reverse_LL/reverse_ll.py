@@ -18,3 +18,14 @@ def reverse(head):
     return prev
   
 
+def reverse(head):
+    dummy, current, tail = None, head, None
+    
+    while current:
+        tail = current.next
+        
+        current.next = dummy
+        
+        dummy = current
+        current =tail
+    return dummy
