@@ -63,6 +63,21 @@ def lca(root, v1, v2):
   else:
     return root
   
+#   iterative
+# def lca(root, v1, v2):
+
+#     current = root
+#     while current:
+#     # compare our current node to v1 and v2
+#     # if both v1 and v2 are to the left, then move left
+#     if v1 < current.info and v2 < current.info:
+#       current = current.left
+#     # if they're both to the right, then move right
+#     elif v1 > current.info and v2 > current.info:
+#       current = current.right
+#     # if neither of those, so one is left and one is right, then we've found our LCA
+#     else: 
+#       return current
 
 tree = BinarySearchTree()
 t = int(input())
